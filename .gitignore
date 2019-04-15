@@ -1,0 +1,5 @@
+node_modules
+**/identity/
+**/hyperledger/
+**/wallet/*
+.DS_Store
