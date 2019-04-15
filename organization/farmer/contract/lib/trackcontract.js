@@ -3,7 +3,7 @@
 // Fabric smart contract classes
 const { Contract, Context } = require('fabric-contract-api');
 
-// PaperNet specific classes
+// TrackNet specific classes
 const Track = require('./track.js');
 const TrackList = require('./tracklist.js');
 
@@ -14,7 +14,7 @@ class TrackContext extends Context {
 
     constructor() {
         super();
-        // All papers are held in a list of papers
+        // All tracks are held in a list of tracks
         this.trackList = new TrackList(this);
     }
 

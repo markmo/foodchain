@@ -58,7 +58,7 @@ async function main() {
 
         const contract = await network.getContract('trackcontract', 'org.example.track');
 
-        // buy commercial paper
+        // receive track
         console.log('Submit track receive transaction.');
 
         const buyResponse = await contract.submitTransaction('receive', 'Farmer', '00001', 'Farmer', 'Supplier', '4900000', '2020-05-31');

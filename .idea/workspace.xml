@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e57bc184-ef2c-4915-8183-8145ab2bf601" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enrollment/enrollAdmin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enrollment/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enrollment/registerUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enrollment/wallet/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/application/addToWallet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/application/create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/application/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/configuration/cli/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/configuration/cli/monitordocker.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/contract/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/contract/lib/tracklist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/contract/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/gateway/networkConnection.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/supplier/application/addToWallet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/supplier/application/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/supplier/application/receive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/supplier/configuration/cli/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organization/supplier/configuration/cli/monitordocker.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/connection.json" beforeDir="false" afterPath="$PROJECT_DIR$/network/connection.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/connection.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/network/connection.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js" beforeDir="false" afterPath="$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization/supplier/application/receive.js" beforeDir="false" afterPath="$PROJECT_DIR$/organization/supplier/application/receive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization/supplier/contract/lib/trackcontract.js" beforeDir="false" afterPath="$PROJECT_DIR$/organization/supplier/contract/lib/trackcontract.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization/supplier/gateway/tracknetConnection.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/organization/supplier/gateway/tracknetConnection.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,29 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4032">
-                <caret line="192" column="20" lean-forward="true" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,6 +30,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>basic-network</find>
+      <find>paper</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,7 +57,6 @@
         <option value="$PROJECT_DIR$/organization/farmer/contract/lib/tracklist.js" />
         <option value="$PROJECT_DIR$/organization/farmer/contract/index.js" />
         <option value="$PROJECT_DIR$/organization/farmer/contract/package.json" />
-        <option value="$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml" />
         <option value="$PROJECT_DIR$/organization/farmer/application/package.json" />
         <option value="$PROJECT_DIR$/organization/farmer/configuration/cli/monitordocker.sh" />
         <option value="$PROJECT_DIR$/organization/supplier/application/package.json" />
@@ -115,11 +73,13 @@
         <option value="$PROJECT_DIR$/organization/farmer/application/addToWallet.js" />
         <option value="$PROJECT_DIR$/organization/supplier/application/addToWallet.js" />
         <option value="$PROJECT_DIR$/organization/farmer/application/create.js" />
-        <option value="$PROJECT_DIR$/organization/supplier/application/receive.js" />
-        <option value="$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js" />
-        <option value="$PROJECT_DIR$/organization/supplier/contract/lib/trackcontract.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js" />
+        <option value="$PROJECT_DIR$/organization/supplier/application/receive.js" />
+        <option value="$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml" />
+        <option value="$PROJECT_DIR$/organization/supplier/contract/lib/trackcontract.js" />
+        <option value="$PROJECT_DIR$/organization/supplier/gateway/tracknetConnection.yaml" />
       </list>
     </option>
   </component>
@@ -262,16 +222,15 @@
       <workItem from="1555227439358" duration="747000" />
       <workItem from="1555228463197" duration="177000" />
       <workItem from="1555228651716" duration="2433000" />
-      <workItem from="1555292837668" duration="8427000" />
+      <workItem from="1555292837668" duration="8691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12006000" />
+    <option name="totallyTimeSpent" value="12270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -389,13 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-614">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="224" column="23" lean-forward="true" selection-start-line="224" selection-start-column="23" selection-end-line="224" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -517,16 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/organization/supplier/application/receive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="70" column="104" selection-start-line="70" selection-start-column="104" selection-end-line="70" selection-end-column="104" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/organization/farmer/contract/lib/track.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -534,17 +476,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="102" selection-start-line="99" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/organization/supplier/contract/lib/trackcontract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="63">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -558,10 +493,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/organization/farmer/contract/lib/trackcontract.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="268">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization/supplier/application/receive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization/farmer/gateway/tracknetConnection.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization/supplier/contract/lib/trackcontract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization/supplier/gateway/tracknetConnection.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
         </state>
       </provider>
     </entry>
